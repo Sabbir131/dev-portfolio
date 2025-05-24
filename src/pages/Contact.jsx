@@ -21,7 +21,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="max-w-3xl mx-auto px-6 py-16 text-gray-200"
+      className="max-w-3xl mx-auto px-6 py-12 text-gray-200"
     >
       <h2 className="text-3xl font-bold mb-8 text-emerald-400 text-center">
         Contact Me
